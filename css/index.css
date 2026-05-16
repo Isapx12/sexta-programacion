@@ -27,8 +27,8 @@ body {
     align-items: center;
 }
 .caja2 img {
-    max-width: 250px;  
-    max-height: 250px; 
+    max-width: 480px;  
+    max-height: 480px; 
     height: auto;      
     width: auto;       
 }
@@ -68,13 +68,30 @@ body {
     height: 300px;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
+.caja5 img {
+    max-width: 250px;  
+    max-height: 250px; 
+    height: auto;      
+    width: auto;       
+}
+
 .caja6 {
     background-color: #7c7367;
     border: 2px solid black;
     height: 300px;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.caja6 img {
+    max-width: 250px;  
+    max-height: 250px; 
+    height: auto;      
+    width: auto;       
 }
 .caja7 {
     background-color: #a7a5a2;
@@ -82,6 +99,14 @@ body {
     height: 300px;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.caja7 img {
+    max-width: 250px;  
+    max-height: 250px; 
+    height: auto;      
+    width: auto;       
 }
 .caja8 {
     background-color: #7c7367;
@@ -89,6 +114,14 @@ body {
     height: 300px;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.caja8 img {
+    max-width: 250px;  
+    max-height: 250px; 
+    height: auto;      
+    width: auto;       
 }
 .caja9 {
     background-color: #a7a5a2;
@@ -103,6 +136,13 @@ body {
     height: 300px;
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+.caja10 img {
+    max-width: 100px;  
+    max-height: 100px; 
+    height: auto;      
+    width: auto;       
 }
 .caja11 {
     background-color: #a7a5a2;
